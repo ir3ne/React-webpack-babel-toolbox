@@ -4,7 +4,8 @@
   "description": "Starter for a React project with babel and webpack",
   "private": true,
   "scripts": {
-    "start": "webpack-dev-server --hot --inline"
+    "start": "webpack-dev-server --hot --inline",
+    "build": "webpack"
   },
   "dependencies": {
     "react": "^16.5.2",
